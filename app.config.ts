@@ -54,7 +54,7 @@ export default defineAppConfig<AppConfig>({
   siteDescription: "专注于Java后端开发及服务端、软件架构、微服务、自然语言处理等领域的技术分享。",
 
   theme: {
-    mode: "light",
+    mode: "night",
     lightTheme: "Zhihu",
     darkTheme: "Zhihu",
     themeVersion: "0.1.1",
